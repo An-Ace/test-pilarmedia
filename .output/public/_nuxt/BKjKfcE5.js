@@ -1,0 +1,1 @@
+import{d as o,l as e,i as t,m as n,o as a}from"./D0exQMQl.js";const u=o({__name:"Logout",setup(r){return e(()=>{t().setLogout(),window.location.href="/login"+window.location.search}),(s,c)=>(a(),n("div",null,"logout"))}});export{u as default};
